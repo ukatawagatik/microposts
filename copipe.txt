@@ -1,0 +1,1 @@
+git clone https://github.com/techacademy-jp/git-training-sample.git reset-tutorial
